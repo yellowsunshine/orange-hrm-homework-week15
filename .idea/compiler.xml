@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="orange-hrm-homework-week15" />
+        <module name="orange-hrm-cucumber-week15" />
       </profile>
     </annotationProcessing>
   </component>
